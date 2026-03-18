@@ -99,3 +99,28 @@ Through this process I developed a stronger understanding of:
 
 ### Limitations
 AI-generated code occasionally required refinement to better align with assignment constraints and improve clarity. Reviewing and modifying the generated code was essential to ensure correctness and understanding.
+
+## Data Story
+
+This project explores energy consumption of televisions in Australia.
+
+The analysis focuses on:
+- Distribution of TV sizes
+- Relationship between screen size and energy consumption
+- Impact of screen technology on energy usage
+
+Visualisations were created using KNIME and added to the website to communicate insights to users.
+
+## About the Data
+
+The dataset was sourced from the Australian Government energy rating database.
+Data was cleaned and processed using KNIME.
+
+Limitations:
+- Only includes registered TV models
+- May not represent all products in the market
+
+## AI Declaration
+
+ChatGPT was used to assist with structuring explanations and improving clarity.
+All analysis and interpretation were completed by the student.
