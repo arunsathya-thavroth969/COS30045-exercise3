@@ -87,10 +87,18 @@ main {
     padding: 20px;
     border-radius: 6px;
     border: 1px solid var(--border);
+    margin-bottom: 30px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
 .content h2 {
     margin-top: 0;
+}
+
+.content img {
+    margin: 15px 0;
+    max-width: 100%;
+    border-radius: 4px;
 }
 
 /* =========================
