@@ -122,5 +122,11 @@ Limitations:
 
 ## AI Declaration
 
-ChatGPT was used to assist with structuring explanations and improving clarity.
-All analysis and interpretation were completed by the student.
+Generative AI (ChatGPT) was used as a support tool during this project to assist with:
+- Structuring HTML, CSS, and JavaScript code
+- Improving clarity of written explanations
+- Suggesting UI and layout improvements
+
+AI was not used to generate the data analysis or KNIME workflows. All data cleaning, transformation, visualisation, and interpretation of results were completed independently by the student.
+
+All AI-generated suggestions were reviewed, modified, and validated before being included in the final submission.
